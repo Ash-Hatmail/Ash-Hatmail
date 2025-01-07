@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Ash-Hatmail/Ash-Hatmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Ula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-Hatmail&show_icons=true&theme=transparent)
